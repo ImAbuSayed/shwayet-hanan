@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في الظلام
+> شوقي لك ماله كلام
+> من نظرة عشت الغرام
+> في غيابك ضاع السلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
